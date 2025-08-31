@@ -2,7 +2,11 @@
 ### An IT student in his first year at college!
 ### Still have a lot lot to learn, but currently interested in cybersecurity!
 
+<details>
+<summary><h2>GitHub Stats</h2></summary>
 ![GitHub stats](https://github-readme-stats-alpha-plum-82.vercel.app/api?username=SlightlyOffset)
+</details>
+
 <!--
 **SlightlyOffset/SlightlyOffset** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
