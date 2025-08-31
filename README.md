@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![GitHub stats](https://github-readme-stats-alpha-plum-82.vercel.app/api?username=SlightlyOffset)]
 <!--
 **SlightlyOffset/SlightlyOffset** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
