@@ -1,7 +1,4 @@
-## Hi there 👋
-## Good to see you have wandered into my page!
-### I'm an IT student in his first year at college!
-### Still have a lot lot to learn, but currently interested in cybersecurity!
+## Professional idiot right here.
 
 <details>
   <summary><h3>GitHub Stats</h3></summary>
