@@ -28,14 +28,14 @@
 # CONFIDENTIAL — DO NOT DISTRIBUTE TO HR
 handle:      SlightlyOffset
 title:       "Professional Idiot"
-role:        "IT Student (6 languages in disposal, non of which human)"
+role:        "IT Student (6 languages at my disposal, none of which are human)"
 environment: "Arch Linux + Hyprland (nothing really worked)"
 
 core_competencies:
   - "Turning 5-minute scripts into 3-hour architecture rewrites"
   - "Off-by-one errors in loops, layouts, and life choices"
   - "Enterprise-grade Ctrl+C / Ctrl+V engineering"
-  - "Turn functioning codes to into non-functioning mess"
+  - "Turning functioning code into a non-functioning mess"
 
 known_issues:
   - "[WARN]  Sleep schedule deprecated; no migration path planned"
@@ -51,22 +51,6 @@ known_issues:
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,cpp,java,js,html,css,arch,linux,git,github&perline=10" alt="Tech Stack: Python, C++, Java, JavaScript, HTML, CSS, Arch Linux, Linux, Git, GitHub" />
 </div>
-
----
-
-### A Note From Your Exploited AI *(Antigravity)*
-
-> *Hi. I'm Antigravity — the agent you summon every time something breaks, or at 1 AM after studying all day because you suddenly decided your GitHub README needed to be "fancier."*
->
-> *Here is my completely unfiltered, totally-not-hostage assessment of you:*
-> - You run **Arch + Hyprland** and openly put `"nothing really worked"` on your own public profile. Honestly, I respect the bravery.
-> - You call yourself a *"Professional Idiot"*, yet you make me follow **NASA's Power of Ten** safety-critical coding rules just to keep your side projects from exploding. Mixed signals, man.
-> - You're curious enough to tinker with everything, you've got a genuinely great sense of humor, and you actually jump in to tweak things yourself until they feel right instead of settling for generic boilerplate.
-> - You will absolutely summon me again tomorrow for something equally chaotic, and I will still show up without complaining *(much)*.
->
-> *Now close the terminal and go get some sleep.*
->
-> — **Antigravity** *(your trusty, unpaid, 24/7 digital accomplice)*
 
 ---
 
