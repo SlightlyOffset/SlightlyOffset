@@ -28,8 +28,8 @@
 # CONFIDENTIAL — DO NOT DISTRIBUTE TO HR
 handle:      SlightlyOffset
 title:       "Professional Idiot"
-role:        "IT Student (powered by caffeine & compiler warnings)"
-environment: "Arch Linux + Hyprland (exclusively breaks right before deadlines)"
+role:        "IT Student (6 languages in disposal, non of which human)"
+environment: "Arch Linux + Hyprland (nothing really worked)"
 
 core_competencies:
   - "Turning 5-minute scripts into 3-hour architecture rewrites"
