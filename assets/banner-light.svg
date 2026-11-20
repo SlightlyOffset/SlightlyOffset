@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 220" width="860" height="220" role="img" aria-label="SlightlyOffset — Professional Idiot">
+  <defs>
+    <linearGradient id="bg-grad-light" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="100%" stop-color="#f6f8fa" />
+    </linearGradient>
+    <linearGradient id="accent-line-light" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0969da" />
+      <stop offset="50%" stop-color="#8250df" />
+      <stop offset="100%" stop-color="#1a7f37" />
+    </linearGradient>
+    <pattern id="dot-grid-light" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#d0d7de" opacity="0.65" />
+    </pattern>
+  </defs>
+
+  <style>
+    .mono {
+      font-family: 'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+    }
+    .title {
+      font-size: 40px;
+      font-weight: 800;
+      fill: #1f2328;
+      letter-spacing: -0.5px;
+    }
+    .title-offset {
+      font-size: 40px;
+      font-weight: 800;
+      fill: #0969da;
+      letter-spacing: -0.5px;
+    }
+    .prompt {
+      font-size: 13px;
+      fill: #1a7f37;
+      font-weight: 700;
+    }
+    .cmd {
+      font-size: 13px;
+      fill: #24292f;
+    }
+    .subtitle {
+      font-size: 14px;
+      fill: #57606a;
+    }
+    .comment {
+      font-size: 11px;
+      fill: #6e7781;
+      font-style: italic;
+    }
+    .win-title {
+      font-size: 12px;
+      fill: #57606a;
+    }
+    .badge-text {
+      font-size: 11px;
+      font-weight: 600;
+      fill: #1a7f37;
+    }
+  </style>
+
+  <!-- Outer window frame -->
+  <rect x="2" y="2" width="856" height="216" rx="12" fill="url(#bg-grad-light)" stroke="#d0d7de" stroke-width="1.5" />
+  <rect x="3" y="38" width="854" height="179" rx="10" fill="url(#dot-grid-light)" />
+
+  <!-- Top title bar -->
+  <path d="M 14 2 H 846 A 12 12 0 0 1 858 14 V 38 H 2 V 14 A 12 12 0 0 1 14 2 Z" fill="#f6f8fa" />
+  <line x1="2" y1="38" x2="858" y2="38" stroke="#d0d7de" stroke-width="1" />
+
+  <!-- Window controls -->
+  <circle cx="24" cy="20" r="5.5" fill="#ff5f56" />
+  <circle cx="42" cy="20" r="5.5" fill="#ffbd2e" />
+  <circle cx="60" cy="20" r="5.5" fill="#27c93f" />
+
+  <!-- Window title -->
+  <text x="430" y="24" text-anchor="middle" class="mono win-title">slightlyoffset@arch — ~/diagnostic.sh</text>
+
+  <!-- Status pill (top-right) -->
+  <rect x="698" y="10" width="144" height="20" rx="10" fill="#dafbe1" stroke="#4ac26b" stroke-width="1" />
+  <circle cx="711" cy="20" r="3.5" fill="#1a7f37">
+    <animate attributeName="opacity" values="1;0.3;1" dur="2.2s" repeatCount="indefinite" />
+  </circle>
+  <text x="722" y="24" class="mono badge-text">BUILD: PASSING*</text>
+
+  <!-- Accent bar -->
+  <rect x="34" y="58" width="4" height="132" rx="2" fill="url(#accent-line-light)" />
+
+  <!-- Prompt line -->
+  <text x="54" y="75" class="mono prompt">$</text>
+  <text x="68" y="75" class="mono cmd">whoami --verbose --honest</text>
+
+  <!-- Main Title: "Offset" is intentionally shifted down 3px for the sight gag -->
+  <text x="54" y="124" class="mono title">Slightly</text>
+  <text x="244" y="127" class="mono title-offset">Offset</text>
+
+  <!-- Blinking cursor next to title -->
+  <rect x="394" y="96" width="12" height="33" rx="2" fill="#0969da">
+    <animate attributeName="opacity" values="1;1;0;0" dur="1.1s" repeatCount="indefinite" />
+  </rect>
+
+  <!-- Cheeky annotation pointing to the misalignment -->
+  <text x="424" y="123" class="mono comment">// +3px off. intentional. won't fix.</text>
+
+  <!-- Tagline -->
+  <text x="54" y="158" class="mono subtitle">Professional Idiot  ·  Off-by-one since 2020  ·  Certified Overthinker</text>
+
+  <!-- Footnote -->
+  <text x="54" y="185" class="mono comment">*passes locally when nobody is watching</text>
+</svg>
