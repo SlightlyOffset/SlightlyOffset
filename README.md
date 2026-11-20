@@ -49,7 +49,8 @@ known_issues:
 ### Toolkit *(Things I Confidently Google)*
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,java,js,html,css,arch,linux,git,github&perline=10" alt="Tech Stack: Python, C++, Java, JavaScript, HTML, CSS, Arch Linux, Linux, Git, GitHub" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,java,js,html,css,arch,linux,git,github&perline=10" alt="Tech Stack: Python, C++, Java, JavaScript, HTML, CSS, Arch Linux, Linux, Git, GitHub" height="48" />
+  <img src="./assets/antigravity-icon.svg" alt="Antigravity (Unpaid 24/7 Co-Pilot)" title="Antigravity — Unpaid 24/7 Co-Pilot" height="48" />
 </div>
 
 ---
