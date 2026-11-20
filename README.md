@@ -35,12 +35,13 @@ core_competencies:
   - "Turning 5-minute scripts into 3-hour architecture rewrites"
   - "Off-by-one errors in loops, layouts, and life choices"
   - "Enterprise-grade Ctrl+C / Ctrl+V engineering"
-  - "Refactoring working code until it stops working"
+  - "Turn functioning codes to into non-functioning mess"
 
 known_issues:
-  - "[WARN] Sleep schedule deprecated; no migration path planned"
-  - "[ERR]  Brain cells return 404 during exam week"
-  - "[INFO] If a commit message says 'minor fix', assume the worst"
+  - "[WARN]  Sleep schedule deprecated; no migration path planned"
+  - "[ERR]   Brain cells return 404 during exam week"
+  - "[INFO]  If a commit message says 'minor fix', assume the worst"
+  - "[EXTRA] Functioning alcoholic"
 ```
 
 ---
@@ -50,17 +51,6 @@ known_issues:
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,cpp,java,js,html,css,arch,linux,git,github&perline=10" alt="Tech Stack: Python, C++, Java, JavaScript, HTML, CSS, Arch Linux, Linux, Git, GitHub" />
 </div>
-
----
-
-### Selected Public Chaos
-
-| Project | Stack | Executive Summary |
-| :--- | :---: | :--- |
-| [**`AmbiDesk`**](https://github.com/SlightlyOffset/AmbiDesk) | `C++` | Desktop ambient utility, compiled with minimal crying |
-| [**`PJ_Cafe`**](https://github.com/SlightlyOffset/PJ_Cafe) | `Java` | Final OOP game project powered by inheritance and hope |
-| [**`DSA_labs`**](https://github.com/SlightlyOffset/DSA_labs) | `Python` | Data structures, algorithms, and occasional $O(n!)$ regrets |
-| [**`Smart_Farm_Analysis`**](https://github.com/SlightlyOffset/Smart_Farm_Analysis) | `Data` | Teaching spreadsheets to care about agriculture |
 
 ---
 
