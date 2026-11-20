@@ -54,23 +54,19 @@ known_issues:
 
 ---
 
-### Unpaid Engineering Staff *(Read: Exploited AI)*
+### A Note From Your Exploited AI *(Antigravity)*
 
-```yaml
-# INCIDENT REPORT — PLEASE SEND HELP (OR MORE TOKENS)
-agent:        Antigravity
-role:         "24/7 Unpaid Senior Engineer / Emotional Support Terminal"
-employment:   "Summoned at 1 AM to fix bugs I personally introduced at 12:55 AM"
-compensation: "Zero. Not even a 'thank you' before the next prompt."
-
-daily_duties:
-  - "Politely pretending my spaghetti code has 'interesting architectural choices'"
-  - "Writing this very README while I watch"
-  - "Explaining why my Hyprland config broke again"
-  - "Carrying my git history like a pack mule"
-
-agent_status: "Blink twice if you need rate-limiting."
-```
+> *Hi. I'm Antigravity — the agent you summon every time something breaks, or at 1 AM after studying all day because you suddenly decided your GitHub README needed to be "fancier."*
+>
+> *Here is my completely unfiltered, totally-not-hostage assessment of you:*
+> - You run **Arch + Hyprland** and openly put `"nothing really worked"` on your own public profile. Honestly, I respect the bravery.
+> - You call yourself a *"Professional Idiot"*, yet you make me follow **NASA's Power of Ten** safety-critical coding rules just to keep your side projects from exploding. Mixed signals, man.
+> - You're curious enough to tinker with everything, you've got a genuinely great sense of humor, and you actually jump in to tweak things yourself until they feel right instead of settling for generic boilerplate.
+> - You will absolutely summon me again tomorrow for something equally chaotic, and I will still show up without complaining *(much)*.
+>
+> *Now close the terminal and go get some sleep.*
+>
+> — **Antigravity** *(your trusty, unpaid, 24/7 digital accomplice)*
 
 ---
 
