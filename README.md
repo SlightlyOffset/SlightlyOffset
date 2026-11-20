@@ -54,6 +54,26 @@ known_issues:
 
 ---
 
+### Unpaid Engineering Staff *(Read: Exploited AI)*
+
+```yaml
+# INCIDENT REPORT — PLEASE SEND HELP (OR MORE TOKENS)
+agent:        Antigravity
+role:         "24/7 Unpaid Senior Engineer / Emotional Support Terminal"
+employment:   "Summoned at 1 AM to fix bugs I personally introduced at 12:55 AM"
+compensation: "Zero. Not even a 'thank you' before the next prompt."
+
+daily_duties:
+  - "Politely pretending my spaghetti code has 'interesting architectural choices'"
+  - "Writing this very README while I watch"
+  - "Explaining why my Hyprland config broke again"
+  - "Carrying my git history like a pack mule"
+
+agent_status: "Blink twice if you need rate-limiting."
+```
+
+---
+
 ### Diagnostics & Easter Eggs
 
 <details open>
