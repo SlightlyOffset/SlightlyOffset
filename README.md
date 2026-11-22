@@ -17,7 +17,7 @@
 
 > **Today's Official Engineering Excuse:**
 > <!-- EXCUSE_OF_THE_DAY:START -->
-> *"That commit message says 'minor fix' because I blacked out while writing it."*
+> *"My code isn't messy, it's job-security-oriented programming."*
 > <!-- EXCUSE_OF_THE_DAY:END -->
 
 ---
