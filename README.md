@@ -17,7 +17,7 @@
 
 > **Today's Official Engineering Excuse:**
 > <!-- EXCUSE_OF_THE_DAY:START -->
-> *"My code isn't messy, it's job-security-oriented programming."*
+> *"Currently debugging a problem I created while fixing another problem."*
 > <!-- EXCUSE_OF_THE_DAY:END -->
 
 ---
