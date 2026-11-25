@@ -17,7 +17,7 @@
 
 > **Today's Official Engineering Excuse:**
 > <!-- EXCUSE_OF_THE_DAY:START -->
-> *"Currently debugging a problem I created while fixing another problem."*
+> *"It worked on my machine before I touched one completely unrelated line."*
 > <!-- EXCUSE_OF_THE_DAY:END -->
 
 ---
