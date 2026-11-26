@@ -17,7 +17,7 @@
 
 > **Today's Official Engineering Excuse:**
 > <!-- EXCUSE_OF_THE_DAY:START -->
-> *"It worked on my machine before I touched one completely unrelated line."*
+> *"I didn't break production; I discovered a previously unknown edge case."*
 > <!-- EXCUSE_OF_THE_DAY:END -->
 
 ---
