@@ -17,7 +17,7 @@
 
 > **Today's Official Engineering Excuse:**
 > <!-- EXCUSE_OF_THE_DAY:START -->
-> *"I didn't break production; I discovered a previously unknown edge case."*
+> *"dfgfasl,jmsadnm,c.jilaxmkflds;aofc"*
 > <!-- EXCUSE_OF_THE_DAY:END -->
 
 ---
