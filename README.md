@@ -17,7 +17,7 @@
 
 > **Today's Official Engineering Excuse:**
 > <!-- EXCUSE_OF_THE_DAY:START -->
-> *"dfgfasl,jmsadnm,c.jilaxmkflds;aofc"*
+> *"I swear this made complete sense at 2:47 AM."*
 > <!-- EXCUSE_OF_THE_DAY:END -->
 
 ---
